@@ -1,1 +1,1 @@
-# al-di.github.io
+Ein Mitschreiber gewonnen!
