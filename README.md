@@ -1,1 +1,1 @@
-Ein Mitschreiber gewonnen!
+Hallo Welt
