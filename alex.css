@@ -6,7 +6,18 @@ body
   font-family: Georgia, "Trebuchet MS", Verdana, sans-serif;
   opacity:0.0;
 }
+
+@keyframes erscheinen{
+  0%{
+    opacity:0.0;
+  }
+100%{
+  opacity:1.0;
+}
+}
 body:hover{
+  animation-name:erscheinen;
+  animation-duration:2s;
   opacity:1.0;
 }
 
