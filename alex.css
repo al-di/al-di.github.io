@@ -5,6 +5,8 @@ body
   font-size: normal;
   font-family: Georgia, "Trebuchet MS", Verdana, sans-serif;
   opacity:0.0;
+  transform:rotate(30deg)
+  
 }
 
 @keyframes erscheinen{
@@ -14,7 +16,7 @@ body
 100%{
   opacity:1.0;
 }
-img transform:rotate(30deg)
+
   
 }
 body:hover{
