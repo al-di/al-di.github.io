@@ -19,7 +19,7 @@ body
 
   
 }
-body:hover{
+body img:hover{
   animation-name:erscheinen;
   animation-duration:2s;
   opacity:1.0;
