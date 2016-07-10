@@ -4,8 +4,8 @@ body
   color: black;
   font-size: normal;
   font-family: Georgia, "Trebuchet MS", Verdana, sans-serif;
-  opacity:0.0;
-  transform:transtlate(-120, -120)
+  opacity:1.0;
+  
 }
 
 @keyframes erscheinen{
