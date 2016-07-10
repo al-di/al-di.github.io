@@ -21,7 +21,6 @@ body
 img:hover{
   animation-name:erscheinen;
   animation-duration:1s;
-  opacity:1.0;
 }
 
 h1, em 
